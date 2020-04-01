@@ -1,4 +1,4 @@
-package com.example.cdb;
+package com.avandal.cdb;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
